@@ -42,3 +42,6 @@ System outputs are protected from accidental deletion.
 Frameless window with custom title bar for enhanced terminal feel.
 
 Single-window terminal: No tabs, stable even with large outputs.
+
+<img width="1187" height="690" alt="image" src="https://github.com/user-attachments/assets/15f42dd8-8bb8-4461-9193-0e0a3f01c304" />
+
