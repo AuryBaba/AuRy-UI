@@ -18,3 +18,26 @@ Sistem çıktıları (komut sonucu) yanlışlıkla silinmez.
 Frameless pencere ve özel başlık çubuğu ile terminal hissi arttırıldı.
 
 Tek pencere terminal: Sekme yok, stabil ve büyük çıktılarda dayanıklı.
+
+
+
+
+AuRy-UI
+
+AuRy-UI is a Python-based terminal application for Windows, styled like the Kali Linux terminal. It provides a realistic terminal experience with a single window, black/blue theme, and advanced features.
+
+Features
+
+Supports all Windows CMD commands.
+
+Admin users see the prompt as root㉿Username, while normal users see user㉿Username.
+
+Ctrl+C stops running processes, Ctrl+V pastes text.
+
+Ctrl+L clears the screen entirely.
+
+System outputs are protected from accidental deletion.
+
+Frameless window with custom title bar for enhanced terminal feel.
+
+Single-window terminal: No tabs, stable even with large outputs.
