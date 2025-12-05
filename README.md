@@ -20,6 +20,7 @@ Frameless pencere ve özel başlık çubuğu ile terminal hissi arttırıldı.
 Tek pencere terminal: Sekme yok, stabil ve büyük çıktılarda dayanıklı.
 
 
+English Description
 
 
 AuRy-UI
